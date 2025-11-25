@@ -25,11 +25,6 @@
 
 <div align="center">
   <h3>🏆 Conquistas & Atividade</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gsales2&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15" />
-  </a>
-  
-  <br><br>
 
   <img src="https://streak-stats.demolab.com?user=gsales2&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
