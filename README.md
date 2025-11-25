@@ -38,10 +38,10 @@
 
 <div align="center">
   <p>Conecte-se comigo:</p>
-  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
+  <a href="[SEU_LINK_DO_LINKEDIN_AQUI](https://www.linkedin.com/in/gabriel-sales-143a82231/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:gabrielsales2002@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
