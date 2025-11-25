@@ -13,6 +13,8 @@
   <br>Estou transformando café ☕ em código e bugs em features.
 </p>
 
+<br>
+
 <div align="center">
   <h3>🛠️ Tech Stack</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -24,8 +26,7 @@
 <br>
 
 <div align="center">
-  <h3>🏆 Conquistas & Atividade</h3>
-
+  <h3>🔥 Minha Frequência</h3>
   <img src="https://streak-stats.demolab.com?user=gsales2&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
@@ -39,4 +40,6 @@
   <a href="mailto:gabrielsales2002@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=gsales2&style=flat-square&label=Profile+Views&color=7e22ce" alt="Profile Views" />
 </div>
