@@ -2,10 +2,10 @@
   <img height="180" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-410c-a317-567e3a3da16b.gif"  />
 </div>
 
-<h1 align="center">Olá, eu sou o Gabriel! (ou seu nome) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">Olá, eu sou o Gabriel!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
-  <b>Desenvolvedor Front-end | Fã de Dark Souls & Clean Code</b>
+  <b>Desenvolvedor Front-end | Fã de Games & Clean Code</b>
 </p>
 
 <p align="center">
