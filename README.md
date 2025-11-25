@@ -27,7 +27,7 @@
 
 <div align="center">
   <h3>🔥 Minha Frequência</h3>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=gsales2)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=gsales2&theme=dracula&hide_border=falso&locale=pt_BR&short_numbers=falso&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 </div>
 
 <hr>
